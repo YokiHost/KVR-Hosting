@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/EminShadow/SCP-LE/">
-    <img src="https://media.discordapp.net/attachments/1162368760754208882/1195976754217635961/logo.png" alt="Pbot-plus" width="200" height="200">
+    <img src="https://media.discordapp.net/attachments/1162368760754208882/1187340370867134574/light.png" alt="Pbot-plus" width="200" height="200">
   </a>
 
   <h3 align="center">KVR-Hosting</h3>
