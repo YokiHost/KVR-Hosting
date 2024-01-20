@@ -20,19 +20,29 @@
 <br/>
 <br/>
 <br/>
+
 # Welcome to KVR-Hosting
 Your preferred provider of advanced hosting solutions! At KVR-Hosting, we prioritize your hosting business, and we take pride in offering you a unique and optimized version of FOSSBilling under the Apache License 2.0.
+
 <br/>
+
 # About KVR-Hosting
 At KVR-Hosting, we've tailored and fine-tuned FOSSBilling to meet the requirements of modern hosting companies. Our dedicated team of experts has revamped every aspect of the software to provide you with enhanced user-friendliness, increased efficiency, and additional features.
+
 <br/>
+
 # Our Commitment
 Our modified FOSSBilling version is released under the Apache License 2.0, giving you the freedom to use and customize the software according to your needs. We place great importance on strict adherence to license terms while providing you with the flexibility necessary to run your hosting business successfully.
+
 <br/>
+
 # Exclusive Updates for Your Business
 At KVR-Hosting, you not only receive the modified FOSSBilling version but also a specially tailored update system. Say goodbye to generic updates – with us, you get customized upgrades to ensure your hosting platform is always up-to-date.
+
 <br/>
+
 # Why Choose KVR-Hosting?
+
 Optimized FOSSBilling Version: Our experts have modified FOSSBilling to ensure the highest performance and efficiency.
 
 Apache License 2.0: We respect the open-source community and uphold our commitment to comply with license terms.
@@ -40,6 +50,7 @@ Apache License 2.0: We respect the open-source community and uphold our commitme
 Exclusive Updates: Benefit from individual updates specifically designed to meet the requirements of your hosting business.
 
 Trust KVR-Hosting to elevate your hosting business to the next level. Learn how our tailored FOSSBilling version can help you provide top-notch service to your customers and operate your hosting platform successfully.
+
 <br/>
 <br/>
 
