@@ -53,6 +53,10 @@ Trust KVR-Hosting to elevate your hosting business to the next level. Learn how 
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## FOSSBilling | Links
 
@@ -60,8 +64,6 @@ Trust KVR-Hosting to elevate your hosting business to the next level. Learn how 
 - [Github](https://github.com/FOSSBilling/FOSSBilling/)
 - [Apache-2.0 license](https://github.com/FOSSBilling/FOSSBilling/blob/main/LICENSE)
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
