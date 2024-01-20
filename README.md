@@ -20,7 +20,8 @@
 
 
 
-Welcome to KVR-Hosting – Your preferred provider of advanced hosting solutions! At KVR-Hosting, we prioritize your hosting business, and we take pride in offering you a unique and optimized version of FOSSBilling under the Apache License 2.0.
+# Welcome to KVR-Hosting
+Your preferred provider of advanced hosting solutions! At KVR-Hosting, we prioritize your hosting business, and we take pride in offering you a unique and optimized version of FOSSBilling under the Apache License 2.0.
 
 # About KVR-Hosting
 At KVR-Hosting, we've tailored and fine-tuned FOSSBilling to meet the requirements of modern hosting companies. Our dedicated team of experts has revamped every aspect of the software to provide you with enhanced user-friendliness, increased efficiency, and additional features.
