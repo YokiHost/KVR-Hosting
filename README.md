@@ -54,9 +54,17 @@ Trust KVR-Hosting to elevate your hosting business to the next level. Learn how 
 <br/>
 <br/>
 
+## FOSSBilling | Links
 
+- [Website](https://www.fossbilling.org/)
+- [Github](https://github.com/FOSSBilling/FOSSBilling/)
+- [Apache-2.0 license](https://github.com/FOSSBilling/FOSSBilling/blob/main/LICENSE)
 
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
 -There are two channels on this project's Discord dedicated to development. One is publicly available and the other is for verified contributors. Invite: https://discord.gg/Z4DgDqTWfT
