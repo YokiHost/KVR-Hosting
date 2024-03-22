@@ -1,8 +1,3 @@
-![Downloads - Total](https://img.shields.io/github/downloads/YokiHost/panel/total?style=for-the-badge)
-![Downloads - Latest](https://img.shields.io/github/downloads/YokiHost/panel/latest/total?style=for-the-badge)
-![Version](https://img.shields.io/github/v/release/YokiHost/panel?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors-anon/YokiHost/panel?style=for-the-badge)
-
 <br/>
 <br/>
 <br/>
