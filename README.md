@@ -58,7 +58,7 @@ If you need help at any point during the installation process, please let us kno
 <br/>
 
 # <img src="https://media.discordapp.net/attachments/1216615245527912468/1220013441843204106/1036083490292244493.png?ex=660d650f&is=65faf00f&hm=fb124e28e1e1a2549c31bf2c50a6be939214ac42e626d0460544f29d2c50c754&=&format=webp&quality=lossless" width="15px" height="15px">》Support Server
-- There are two channels on this project's Discord dedicated to development. One is publicly available and the other is for verified contributors.
+- There are two channels on this project's Discord dedicated to development. One is publicly available and the other is for verified contributors. [Support Server](https://discord.gg/Ahu7SdJkYZ)
 <br/>
+
 [![DiscordBanner](https://invidget.switchblade.xyz/Ahu7SdJkYZ)](https://discord.gg/Ahu7SdJkYZ)
-[Support Server](https://discord.gg/Ahu7SdJkYZ) - Plugins Support Server Invite
